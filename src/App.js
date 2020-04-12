@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h2>D2ß</h2>
+          <h2>2ß</h2>
           <code>src/App.js</code> and save to reload.
         </p>
         <a
